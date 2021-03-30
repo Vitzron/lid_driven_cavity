@@ -8,10 +8,8 @@ Change the LIBS in makefile to the Eigen directory.
 
 ## make
 
-## ./run.sh
-
-./run.sh arg1 arg2
+## ./run.sh arg1 arg2
  
- arg1 cell numbers along each direction
+ arg1 mesh numbers along each direction
  
  arg2 Re number
