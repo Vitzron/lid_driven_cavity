@@ -4,9 +4,9 @@
 
 See [Eigen](https://eigen.tuxfamily.org/) for more information about Eigen.
 
-Change the LIBS in makefile to the Eigen directory.
-
 ## make
+
+Change the LIBS in makefile to the Eigen directory.
 
 ## ./run.sh arg1 arg2
  
