@@ -1,5 +1,11 @@
 # lid_driven_cavity
 
+## Numerical methods
+
++ Fractional step method
++ WENO scheme
++ TVD RK3
+
 ## Eigen package REQUIRED!
 
 See [Eigen](https://eigen.tuxfamily.org/) for more information about Eigen.
